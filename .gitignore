@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.venv/
+venv/
+
+# Large model files
+*.pth
+*.pt
+
+# Training checkpoints
+checkpoints/
+
+# Datasets
+data/
+dataset/
+datasets/
+
+# Downloaded project
+Plant-Leaf-Disease-Classification-master/
+
+# VS Code
+.vscode/
+
+# Images (optional)
+*.jpg
+*.jpeg
+*.png
